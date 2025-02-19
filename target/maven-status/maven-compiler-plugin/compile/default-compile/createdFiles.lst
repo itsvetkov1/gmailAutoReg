@@ -1,0 +1,17 @@
+pageObjects\RegForm3MailNaming.class
+pageObjects\RegForm5RecoveryEmail.class
+pageObjects\RegForm7Confirmation.class
+base\Hooks.class
+pageObjects\RegForm6PhoneForm.class
+pageObjects\HomePage.class
+resourses\Listeners.class
+base\ExtentManager.class
+pageObjects\RegForm4Pass.class
+base\BasePage.class
+pageObjects\RegForm10AdditionalTerms2.class
+pageObjects\RegForm1Names.class
+uk\co\automationtesting\App.class
+base\WebDriverInstance.class
+pageObjects\RegForm8Personalize.class
+pageObjects\RegForm2Date.class
+pageObjects\RegForm9Terms.class
